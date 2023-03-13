@@ -1,0 +1,35 @@
+F-15J
+
+F-15
+F-15J
+
+Name: F-15J
+Type: Air-superiority fighter
+Developer: McDonnel Douglas/Mitsubishi Heavy Industries
+Produced: 1979–1989
+Crew: 1
+Length: 19.43 m
+Height: 5.66 m
+Wing span: 13.05 m
+Wing area: 56.5 m²
+Weight empty: 12700 kg
+Normal weight: 20240 kg
+Maximum weight: 30845 kg
+Maximum Mach at height: 2.5
+G limit: 9
+Range with nominal load: 2540 km
+Maximum fuel: 6103 kg
+Service ceiling: 18500 m
+Take-off speed: 219.6 km/h
+Landing speed: 234 km/h
+Maximum range: 5750 km (with conformal fuel tanks and three external fuel tanks)
+Maximum Mach at S/L: 1.2
+
+Armament:
+- M61A-1 cannon;
+Tactical Combat Training System pod:
+- AN/ASQ-T50 TCTS;
+Air-to-air missiles: 
+- AIM-7E/F/M/MH Sparrow;
+- AIM-9L/M/P/P5 Sidewinder;
+- AIM-120 B/C-5 AMRAAM;

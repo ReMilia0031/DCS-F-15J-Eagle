@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\Cockpit">
+      <UniqueIdentifier>{41b784a8-c155-4d80-b9e9-9d9d7edfcd33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Doc">
+      <UniqueIdentifier>{47add669-3be2-44b4-a495-8f0afb4c2d80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Encyclopedia">
+      <UniqueIdentifier>{e527bc65-f920-4bc7-b0fa-8e0172cf0498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Options">
+      <UniqueIdentifier>{fa2c616e-fa78-4ecb-b7e2-83bfd7771a46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Entry">
+      <UniqueIdentifier>{4b1e3689-f0ee-4eb2-a4ce-917d0e7f9e84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Cockpit\Scripts">
+      <UniqueIdentifier>{59db7c3b-cde9-4936-b321-d521374e1006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Cockpit\Scripts\devices">
+      <UniqueIdentifier>{b33754d0-66a2-4a94-848a-5e638b773fac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Cockpit\Scripts\devices\interfaces">
+      <UniqueIdentifier>{d31388b1-bede-4481-9a3c-5a13818a66e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Cockpit\Scripts\devices\radio">
+      <UniqueIdentifier>{390c429d-76f4-4ac6-ba30-d8e252a6ff12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Cockpit\Scripts\devices\sensors">
+      <UniqueIdentifier>{2c9f4edd-2daa-4e08-a549-3014f64cff9f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cockpit\Scripts\clickable_defs.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\clickabledata.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\command_defs.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\device_init.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\draw_args.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\mainpanel_init.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\utils.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\MAIN_INST.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\VSD_CNTL.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices</Filter>
+    </None>
+    <None Include="entry.lua">
+      <Filter>ソース ファイル</Filter>
+    </None>
+    <None Include="Scripts\Comm.lua">
+      <Filter>ソース ファイル\Entry</Filter>
+    </None>
+    <None Include="Scripts\F-15J.lua">
+      <Filter>ソース ファイル\Entry</Filter>
+    </None>
+    <None Include="Scripts\Views.lua">
+      <Filter>ソース ファイル\Entry</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\ASK-6.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\ASN-108.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\ASN-109.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\ASW-38.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\AVIONICS.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\AVQ-20.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\AWG-27.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\AXQ-16.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\BIT_SYSTEM.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\ECS_UNIT.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\ENG_CNTL.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\FLT_CNTL.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\FUEL_CNTL.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\LIGHT_CNTL.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\interfaces\PWR_CNTL.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\interfaces</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\sensors\ALE-45.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\sensors</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\sensors\ALQ-128.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\sensors</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\sensors\ALQ-135.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\sensors</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\sensors\ALR-56C.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\sensors</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\sensors\APG-82.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\sensors</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\radio\APX-76.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\radio</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\radio\ARC-164.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\radio</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\radio\ARN-108.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\radio</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\radio\ARN-111.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\radio</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\radio\Intercom.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\radio</Filter>
+    </None>
+    <None Include="Cockpit\Scripts\devices\radio\KY-58.lua">
+      <Filter>ソース ファイル\Cockpit\Scripts\devices\radio</Filter>
+    </None>
+    <None Include="Options\options.dlg">
+      <Filter>ソース ファイル\Options</Filter>
+    </None>
+    <None Include="Options\optionsData.lua">
+      <Filter>ソース ファイル\Options</Filter>
+    </None>
+    <None Include="Options\optionsDb.lua">
+      <Filter>ソース ファイル\Options</Filter>
+    </None>
+  </ItemGroup>
+</Project>

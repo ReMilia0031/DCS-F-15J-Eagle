@@ -1,0 +1,11 @@
+model = {
+	lods = {		
+		{"f-15e.edm",50.000000};
+		{"f-15e_lod01.edm",500.000000};
+		{"f-15e_lod02.edm",2000.000000};
+		{"f-15e_lod03.edm",50000.000000};
+	
+	};
+	--collision_shell = "F-15C-COLLISION.edm";
+	collision_shell = "F-15E_VSN-collision.edm";
+}
