@@ -1,4 +1,4 @@
-cockpit_args = {
+--[[cockpit_args = {
 
 -- Controls
 	MIRRORS				= 3,
@@ -218,7 +218,7 @@ cockpit_args = {
 
 -- 38	???
 
-},
+},]]
 
 --[[
 external_args = {

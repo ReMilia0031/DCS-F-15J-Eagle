@@ -1,4 +1,4 @@
--- Emectrical Power Supply System
+-- Electrical Power Supply System
 
 dofile(LockOn_Options.script_path.."devices.lua")
 dofile(LockOn_Options.script_path.."command_defs.lua")
